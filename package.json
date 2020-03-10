@@ -1,0 +1,26 @@
+{
+  "name": "deltatracker.github.io",
+  "version": "1.0.0",
+  "description": "Employee Tracker Database Management",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VioletShirokuma/DeltaTracker.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VioletShirokuma/DeltaTracker.github.io/issues"
+  },
+  "homepage": "https://github.com/VioletShirokuma/DeltaTracker.github.io#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {}
+}
